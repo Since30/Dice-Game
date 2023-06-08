@@ -1,4 +1,4 @@
 # Dice-Game
 Jeu de dés
 
-Lancer le index.html pour testé.
+Lancer server local a vscode(Go live) pour testé.
